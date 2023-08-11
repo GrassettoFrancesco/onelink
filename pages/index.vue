@@ -78,18 +78,18 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
-    i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
+    n: "Francesco Grassetto",
+    d: "Italian Content Tech Creator",
+    i: "https://yt3.googleusercontent.com/-vvGCOYqsBrZoLRJ9IYo-dduMCAEAIeul7cT_VDR5nv3DNJ6NZEeibVZIzf9tAV4Vt93AXxH=s176-c-k-c0x00ffffff-no-rj",
+    f: "https://www.facebook.com/cescoitaliancreator",
+    t: "https://threads.net/francesco.creator",
+    ig: "https://www.instagram.com/francesco.creator",
+    e: "grassettofrancesco@engineer.com",
+    gh: "https://github.com/GrassettoFrancesco",
+    tg: "https://t.me/FGrassetto",
     w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    y: "https://youtube.com/@grassettofrancesco",
+    l: "https://www.linkedin.com/in/francescograssetto",
     ls: [
       {
         l: "My Website",
